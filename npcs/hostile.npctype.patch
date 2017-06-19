@@ -1,7 +1,0 @@
-[
-  {
-    "op": "copy",
-    "path": "/items/agaran",
-    "from": "/items/floran"
-  }
-]

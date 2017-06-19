@@ -1,0 +1,7 @@
+[
+  {
+    "op": "copy",
+    "path": "/scriptConfig/chatSounds/agaran",
+    "from": "/scriptConfig/chatSounds/floran"
+  }
+]
